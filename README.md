@@ -1,2 +1,2 @@
 # AtmUygulamasi
-Java ile yaptığım atm uygulaması.
+Java ile yaptığım ATM uygulaması.
