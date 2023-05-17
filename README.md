@@ -1,2 +1,2 @@
 # AtmUygulamasi
-Java ile yaptığım ATM Oyunu.
+Java dilini kullanarak yaptığım ATM Oyunu.
